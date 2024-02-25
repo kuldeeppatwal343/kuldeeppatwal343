@@ -1,0 +1,12 @@
+items := [10]Item{
+		{Name: "two", Price: 20},
+		{Name: "three", Price: 30},
+		{Name: "four", Price: 40},
+		{Name: "five", Price: 50},
+		{Name: "six", Price: 60},
+		{Name: "seven", Price: 70},
+		{Name: "eight", Price: 80},
+		{Name: "nine", Price: 90},
+		{Name: "ten", Price: 100},
+		{Name: "eleven", Price: 110},
+	}
